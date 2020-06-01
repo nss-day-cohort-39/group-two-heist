@@ -24,3 +24,16 @@ C:\Users\drewk\Developement\workspace\group-stuff\group-two-heist\obj\Debug\netc
 C:\Users\drewk\Developement\workspace\group-stuff\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.dll
 C:\Users\drewk\Developement\workspace\group-stuff\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.pdb
 C:\Users\drewk\Developement\workspace\group-stuff\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.genruntimeconfig.cache
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.exe
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.deps.json
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.runtimeconfig.json
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.runtimeconfig.dev.json
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.dll
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.pdb
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.csprojAssemblyReference.cache
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.AssemblyInfoInputs.cache
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.AssemblyInfo.cs
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.csproj.CoreCompileInputs.cache
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.dll
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.pdb
+C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.genruntimeconfig.cache

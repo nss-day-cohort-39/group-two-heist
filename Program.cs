@@ -39,21 +39,39 @@ namespace PlanYourHeist
 
             List<TeamMember> teamNames = heistTeam.getTeamMembers();
 
-            Console.WriteLine("");
-            Console.WriteLine($"Your heist team has {heistTeam.teamCount} members.");
-            Console.WriteLine("Your team members are:");
-            foreach (var member in teamNames)
+            //             Console.WriteLine("");
+            //             Console.WriteLine($"Your heist team has {heistTeam.teamCount} members.");
+            //             Console.WriteLine("Your team members are:");
+            //             foreach (var member in teamNames)
+            //             {
+            //                 Console.WriteLine($@"
+            // Team Member {teamNames.IndexOf(member) + 1}
+            // {member.Name}
+            // -------------
+            // Skill Level : {member.SkillLevel}
+            // Courage Factor: {member.CourageFactor}
+            // ");
+
+
+            // }
+            int BankDifficulty = 100;
+            int CombinedSkill = heistTeam.getTotalSkill();
+
+            Random rand = new Random(); //Random is a data type! creates a new Random class
+            int LuckValue = rand.Next(-10, 11); //gets you a non-negative random integer between 1 and 100
+            BankDifficulty = BankDifficulty + LuckValue;
+
+            Console.Write($"The team's combined skill level is {CombinedSkill}.");
+            Console.Write($"The bank's difficulty level is {BankDifficulty}.");
+
+            if (BankDifficulty <= CombinedSkill)
             {
-                Console.WriteLine($@"
-Team Member {teamNames.IndexOf(member) + 1}
-{member.Name}
--------------
-Skill Level : {member.SkillLevel}
-Courage Factor: {member.CourageFactor}
-");
+                Console.WriteLine("Bank heist is successfull.");
             }
-
-
+            else
+            {
+                Console.WriteLine("Team goes to jail.");
+            }
 
 
         }

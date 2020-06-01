@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace PlanYourHeist
 {
@@ -23,6 +24,10 @@ namespace PlanYourHeist
         public List<TeamMember> getTeamMembers()
         {
             return _team;
+        }
+        public int getTotalSkill()
+        {
+            return _team.Sum(member => member.SkillLevel);
         }
 
     }
