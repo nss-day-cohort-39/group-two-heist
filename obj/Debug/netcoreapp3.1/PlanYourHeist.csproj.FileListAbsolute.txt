@@ -37,3 +37,16 @@ C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.
 C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.dll
 C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.pdb
 C:\Users\jrice\workspace\csharp\exercises\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.genruntimeconfig.cache
+C:\Users\hspro\workspace\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.exe
+C:\Users\hspro\workspace\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.deps.json
+C:\Users\hspro\workspace\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.runtimeconfig.json
+C:\Users\hspro\workspace\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.runtimeconfig.dev.json
+C:\Users\hspro\workspace\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.dll
+C:\Users\hspro\workspace\group-two-heist\bin\Debug\netcoreapp3.1\PlanYourHeist.pdb
+C:\Users\hspro\workspace\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.csprojAssemblyReference.cache
+C:\Users\hspro\workspace\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.AssemblyInfoInputs.cache
+C:\Users\hspro\workspace\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.AssemblyInfo.cs
+C:\Users\hspro\workspace\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.csproj.CoreCompileInputs.cache
+C:\Users\hspro\workspace\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.dll
+C:\Users\hspro\workspace\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.pdb
+C:\Users\hspro\workspace\group-two-heist\obj\Debug\netcoreapp3.1\PlanYourHeist.genruntimeconfig.cache

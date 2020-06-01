@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrice\\workspace\\csharp\\exercises\\group-two-heist\\PlanYourHeist.csproj": {}
+    "C:\\Users\\hspro\\workspace\\group-two-heist\\PlanYourHeist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrice\\workspace\\csharp\\exercises\\group-two-heist\\PlanYourHeist.csproj": {
+    "C:\\Users\\hspro\\workspace\\group-two-heist\\PlanYourHeist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrice\\workspace\\csharp\\exercises\\group-two-heist\\PlanYourHeist.csproj",
+        "projectUniqueName": "C:\\Users\\hspro\\workspace\\group-two-heist\\PlanYourHeist.csproj",
         "projectName": "PlanYourHeist",
-        "projectPath": "C:\\Users\\jrice\\workspace\\csharp\\exercises\\group-two-heist\\PlanYourHeist.csproj",
-        "packagesPath": "C:\\Users\\jrice\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrice\\workspace\\csharp\\exercises\\group-two-heist\\obj\\",
+        "projectPath": "C:\\Users\\hspro\\workspace\\group-two-heist\\PlanYourHeist.csproj",
+        "packagesPath": "C:\\Users\\hspro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hspro\\workspace\\group-two-heist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jrice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hspro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
