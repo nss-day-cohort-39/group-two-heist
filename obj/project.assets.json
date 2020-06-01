@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\drewk\\.nuget\\packages\\": {}
+    "C:\\Users\\sarah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drewk\\Developement\\workspace\\csharp-exercises\\PlanYourHeist\\PlanYourHeist.csproj",
+      "projectUniqueName": "C:\\Users\\sarah\\workspace\\csharp\\group-two-heist\\PlanYourHeist.csproj",
       "projectName": "PlanYourHeist",
-      "projectPath": "C:\\Users\\drewk\\Developement\\workspace\\csharp-exercises\\PlanYourHeist\\PlanYourHeist.csproj",
-      "packagesPath": "C:\\Users\\drewk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drewk\\Developement\\workspace\\csharp-exercises\\PlanYourHeist\\obj\\",
+      "projectPath": "C:\\Users\\sarah\\workspace\\csharp\\group-two-heist\\PlanYourHeist.csproj",
+      "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sarah\\workspace\\csharp\\group-two-heist\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\drewk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
