@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarah\\workspace\\csharp\\group-two-heist\\PlanYourHeist.csproj": {}
+    "C:\\Users\\drewk\\Developement\\workspace\\group-stuff\\group-two-heist\\PlanYourHeist.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarah\\workspace\\csharp\\group-two-heist\\PlanYourHeist.csproj": {
+    "C:\\Users\\drewk\\Developement\\workspace\\group-stuff\\group-two-heist\\PlanYourHeist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarah\\workspace\\csharp\\group-two-heist\\PlanYourHeist.csproj",
+        "projectUniqueName": "C:\\Users\\drewk\\Developement\\workspace\\group-stuff\\group-two-heist\\PlanYourHeist.csproj",
         "projectName": "PlanYourHeist",
-        "projectPath": "C:\\Users\\sarah\\workspace\\csharp\\group-two-heist\\PlanYourHeist.csproj",
-        "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarah\\workspace\\csharp\\group-two-heist\\obj\\",
+        "projectPath": "C:\\Users\\drewk\\Developement\\workspace\\group-stuff\\group-two-heist\\PlanYourHeist.csproj",
+        "packagesPath": "C:\\Users\\drewk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drewk\\Developement\\workspace\\group-stuff\\group-two-heist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sarah\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\drewk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
